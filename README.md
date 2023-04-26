@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S-CHOI-S&hide=Makefile,Common+Lisp&langs_count=5&layout=compact)](https://github.com/S-CHOI-S/github-readme-stats)
 
-<h3 align="left">📚 Tech Stack 📚</h3>
+<h3 align="left"> Tech Stack </h3>
 <p align="left">
   <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white">
@@ -24,4 +24,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
+</p>
+
+<h3 align="left"> Follow Me </h3>
+<p align="left">
+  <a href="https://github.com/S-CHOI-S"><img src="https://img.shields.io/badge/GitHub-1181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/S-CHOI-S"/></a>&nbsp
+  <a href="mailto:jennychoi0904@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jennychoi0904@gmail.com"/></a>
 </p>
