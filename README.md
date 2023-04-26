@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 
 <h3 align="left"> Follow Me </h3>
 <p align="left">
-  <a href="https://github.com/S-CHOI-S"><img src="https://img.shields.io/badge/GitHub-1181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/S-CHOI-S"/></a>&nbsp
+  <a href="https://github.com/S-CHOI-S"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/S-CHOI-S"/></a>&nbsp
   <a href="mailto:jennychoi0904@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jennychoi0904@gmail.com"/></a>
 </p>
