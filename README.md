@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 <h3 align="left">📚 Tech Stack 📚</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=square&logo=c%2B%2B&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Python-3766AB?style=square&logo=Python&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/linux-FCC624?style=square&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/github-181717?style=square&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
 </p>
