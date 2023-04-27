@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Recoil](https://img.shields.io/badge/recoil-f26b00?style=for-the-badge&logo=data:text/plain;base64,aHR0cHM6Ly9tcmwuc2VvdWx0ZWNoLmFjLmtyL21vZHVsZS91cGxvYWQvZmlsZS9zZWxlY3RJbWFnZVZpZXcuZG8/YXRjaEZpbGVJZD0xMDAwMDAwMDM5ODAmZmlsZVNuPTA=)
+
+
 <!--
 **S-CHOI-S/S-CHOI-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
