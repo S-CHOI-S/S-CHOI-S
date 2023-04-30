@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://user-images.githubusercontent.com/113012648/235367652-f3fd8917-03c9-4c2c-80d6-278a150c454f.png">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S-CHOI-S&hide=Makefile,Common+Lisp&langs_count=5&layout=compact)](https://github.com/S-CHOI-S/github-readme-stats)
 <br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FS-CHOI-S&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=S-CHOI-S&edge_flat=true)](https://hits.seeyoufarm.com)
