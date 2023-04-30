@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <br>
   <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
-</p><hr/>
+</p>
 -------------
 
 <h3 align="left"> Follow Me </h3>
