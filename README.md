@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   <a href="mailto:jennychoi0904@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jennychoi0904@gmail.com"/></a>
   <br>
   <a href="https://mrl.seoultech.ac.kr/index.do"><img src="https://mrl.seoultech.ac.kr/module/upload/file/selectImageView.do?atchFileId=100000003980&fileSn=0" width="3%" height="3%"/></a>
-  Mobile Robotics Lab.(MRL)
+  #Mobile Robotics Lab.(MRL)
 </p>
 
 
