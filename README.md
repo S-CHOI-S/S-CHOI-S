@@ -36,7 +36,6 @@ Here are some ideas to get you started:
 </div>
 
 ---
-<hr/>
 
 <h3 align="left"> Follow Me </h3>
 <p align="left">
