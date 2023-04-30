@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S-CHOI-S&hide=Makefile,Common+Lisp&langs_count=5&layout=compact)](https://github.com/S-CHOI-S/github-readme-stats)
 ---
 <h3 align="left"> Tech Stack </h3>
@@ -28,7 +29,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
 </p>
-
+</div>
+---
 <h3 align="left"> Follow Me </h3>
 <p align="left">
   <a href="https://github.com/S-CHOI-S"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/S-CHOI-S"/></a>&nbsp
