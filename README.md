@@ -15,12 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Smithsonian Image](https://atinjin.github.io/images/3953273590_704e3899d5_m.jpg)
-{: .pull-right}
-"JJJ"
 <img src="https://user-images.githubusercontent.com/113012648/235368383-19c0fe16-730d-4564-b929-0510fe388d2e.png" width="30%" height="30%">
-![Avatar Image](https://user-images.githubusercontent.com/113012648/235368383-19c0fe16-730d-4564-b929-0510fe388d2e.png)
-
 {: .pull-right}
 wihihi
 
