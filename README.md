@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 ---
 -------------
 <h3 align="left"> Tech Stack </h3>
+<div>
 <p align="left">
   <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white">
@@ -32,6 +33,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
 </p>
+</div>
+---
 <hr/>
 
 <h3 align="left"> Follow Me </h3>
