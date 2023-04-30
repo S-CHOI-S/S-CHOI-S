@@ -34,8 +34,8 @@ Here are some ideas to get you started:
   <a href="https://github.com/S-CHOI-S"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/S-CHOI-S"/></a>&nbsp
   <a href="mailto:jennychoi0904@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jennychoi0904@gmail.com"/></a>
   <br>
-  <a href="https://mrl.seoultech.ac.kr/index.do"><img src="https://mrl.seoultech.ac.kr/module/upload/file/selectImageView.do?atchFileId=100000003980&fileSn=0" width="3%" height="3%"/></a>
-  ## Mobile Robotics Lab.(MRL)
+  <a href="https://mrl.seoultech.ac.kr/index.do"><img src="https://mrl.seoultech.ac.kr/module/upload/file/selectImageView.do?atchFileId=100000003980&fileSn=0" width="3%" height="3%" "MRL"/></a>
+   Mobile Robotics Lab.(MRL)
 </p>
 ## Mobile Robotics Lab.(MRL)
 
