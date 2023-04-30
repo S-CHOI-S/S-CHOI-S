@@ -34,6 +34,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
   </p>
 </div>
+
 ---
 <hr/>
 
