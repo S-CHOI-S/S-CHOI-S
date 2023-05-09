@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 </br>
 </br>
 </br>
-</br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S-CHOI-S&hide=Makefile,Common+Lisp&langs_count=5&layout=compact)](https://github.com/S-CHOI-S/github-readme-stats)
 </br>
