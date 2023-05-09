@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FS-CHOI-S&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=S-CHOI-S&edge_flat=true)](https://hits.seeyoufarm.com)
 ---
+<br/>
 ![](
 <h3 align="left"> 🌿 Tech Stack 🌿 </h3>
 <div>
@@ -50,7 +51,9 @@ Here are some ideas to get you started:
   </p>
 </div>
 )
+<br/>
 ---
+<br/>
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=S-CHOI-S&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
 ![](./profile-3d-contrib/profile-green-animate.svg)
