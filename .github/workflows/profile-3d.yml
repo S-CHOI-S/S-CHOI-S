@@ -19,6 +19,7 @@ jobs:
         run: |
           git config user.name S-CHOI-S
           git config user.email S-CHOI-S@github.com
+          git pull
           git add -A .
           git commit -m "generated"
           git push origin
