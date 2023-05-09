@@ -17,7 +17,6 @@ jobs:
           USERNAME: S-CHOI-S
       - name: Commit & Push
         run: |
-          git remote set-url https://github.com/S-CHOI-S/S-CHOI-S.git
           git config user.name S-CHOI-S
           git config user.email S-CHOI-S@github.com
           git add -A .
