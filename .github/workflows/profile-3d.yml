@@ -22,8 +22,5 @@ jobs:
           git add -A .
           git commit -m "generated"
           git pull origin main
-          git checkout main
-          git fetch origin
-          git merge origin/main
           git push origin
           git pull
