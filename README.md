@@ -17,14 +17,12 @@ Here are some ideas to get you started:
 
 <img src="https://user-images.githubusercontent.com/113012648/235368383-19c0fe16-730d-4564-b929-0510fe388d2e.png" width="30%" height="30%">
 
-![](./profile-3d-contrib/profile-green-animate.svg)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S-CHOI-S&hide=Makefile,Common+Lisp&langs_count=5&layout=compact)](https://github.com/S-CHOI-S/github-readme-stats)
 <br>
-<!--
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FS-CHOI-S&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=S-CHOI-S&edge_flat=true)](https://hits.seeyoufarm.com) -->
----
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FS-CHOI-S&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=S-CHOI-S&edge_flat=true)](https://hits.seeyoufarm.com)
+---
+![](
 <h3 align="left"> 🌿 Tech Stack 🌿 </h3>
 <div>
   <p align="left">
@@ -51,7 +49,7 @@ Here are some ideas to get you started:
      Mobile Robotics Lab.(MRL)
   </p>
 </div>
-
+)
 ---
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=S-CHOI-S&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
