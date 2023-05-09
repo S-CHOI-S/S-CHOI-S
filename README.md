@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 <img align="left" src="https://user-images.githubusercontent.com/113012648/235368383-19c0fe16-730d-4564-b929-0510fe388d2e.png" width="30%" height="30%"/>
 
-</br>
-
 ### **S-CHOI-S** 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S-CHOI-S&hide=Makefile,Common+Lisp&langs_count=5&layout=compact)](https://github.com/S-CHOI-S/github-readme-stats)
