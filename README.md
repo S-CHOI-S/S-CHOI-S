@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 
 ---
-<br/>
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=S-CHOI-S&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
