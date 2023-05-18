@@ -49,7 +49,7 @@ Here are some ideas to get you started:
     <a href="https://pineasol.notion.site/S-log-624ce31860574aac91f76440167f85dc"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://pineasol.notion.site/S-log-624ce31860574aac91f76440167f85dc"/>
     <br/> 
     <a href="https://mrl.seoultech.ac.kr/index.do"><img src="https://mrl.seoultech.ac.kr/module/upload/file/selectImageView.do?atchFileId=100000003980&fileSn=0" width="4.5%" height="4.5%" "MRL"/></a>
-    <img src="https://img.shields.io/badge/Mobile Robotics Lab.(MRL)-FFFFFF?style=flat-square&logoColor=white&link=https://mrl.seoultech.ac.kr/index.do">
+    <a href="https://mrl.seoultech.ac.kr/index.do"><img src="https://img.shields.io/badge/Mobile Robotics Lab.(MRL)-FFFFFF?style=flat-square&logoColor=white&link=https://mrl.seoultech.ac.kr/index.do"/></a>
   </p>
 </div>
 
