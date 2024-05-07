@@ -29,15 +29,15 @@ Here are some ideas to get you started:
 <h3 align="left"> 🌿 Tech Stack 🌿 </h3>
 <div>
   <p align="left">
-    <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white">
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white">
-    <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black">
+    <a href="https://www.ros.org/"><img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white"></a>
+    <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"></a>
+    <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black"></a>
     <br>
-    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
-    <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white">
+    <a href="https://cplusplus.com/"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"></a>
+    <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"></a>
     <br>
-    <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
-    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
+    <a href="https://github.com/"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"></a>
+    <a href="https://www.notion.so/"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"></a>
   </p>
 </div>
 
