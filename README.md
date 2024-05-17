@@ -29,29 +29,36 @@ Here are some ideas to get you started:
 <h3 align="left"> 🌿 Tech Stack 🌿 </h3>
 <div>
   <p align="left">
-    <a href="https://www.ros.org/"><img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white"></a>
-    <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"></a>
-    <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black"></a>
+    <a href="https://www.ros.org/"><img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white" height="25"></a>
+    <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white" height="25"></a>
+    <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black" height="25"></a>
     <br>
-    <a href="https://cplusplus.com/"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"></a>
-    <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"></a>
+    <a href="https://cplusplus.com/"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" height="25"></a>
+    <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" height="25"></a>
     <br>
-    <a href="https://github.com/"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"></a>
-    <a href="https://www.notion.so/"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"></a>
+    <a href="https://github.com/"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white" height="25"></a>
+    <a href="https://www.notion.so/"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" height="25"></a>
   </p>
 </div>
+
 
 <h3 align="left"> ✈️ Follow Me ✈️ </h3>
 <div>
   <p align="left">
-    <a href="https://github.com/S-CHOI-S"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/S-CHOI-S"/></a>        <!--&nbsp-->
-    <a href="mailto:jennychoi0904@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jennychoi0904@gmail.com"/></a>
-    <a href="https://pineasol.notion.site/"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://pineasol.notion.site/S-log-624ce31860574aac91f76440167f85dc"/>
-    <br/> 
-    <a href="https://mrl.seoultech.ac.kr/index.do"><img src="https://mrl.seoultech.ac.kr/module/upload/file/selectImageView.do?atchFileId=100000003980&fileSn=0" width="4.5%" height="4.5%" "MRL"/></a>
-    <a href="https://mrl.seoultech.ac.kr/index.do"><img src="https://img.shields.io/badge/Mobile Robotics Lab.(MRL)-FFFFFF?style=flat-square&logoColor=white&link=https://mrl.seoultech.ac.kr/index.do"/></a>
+    <a href="https://github.com/S-CHOI-S"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/S-CHOI-S" height="25"/></a>        <!--&nbsp-->
+    <a href="mailto:jennychoi0904@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jennychoi0904@gmail.com" height="25"/></a>
+    <a href="https://pineasol.notion.site/"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://pineasol.notion.site/S-log-624ce31860574aac91f76440167f85dc" height="25"/>
   </p>
 </div>
+
+
+<h3 align="left"> 🔥 Teams 🔥 </h3>
+
+- 🤖&nbsp; **Advanced Robot Control Lab. (ARC)** [🔗](https://sites.google.com/view/kist-arc/home)  
+    
+- 🦅&nbsp; **Machine Learning and Control Systems Lab. (MLCS)** [🔗](https://mlcs.yonsei.ac.kr/)  
+    
+- 🚀&nbsp; **Mobile Robotics Lab. (MRL)** [🔗](https://mrl.seoultech.ac.kr/index.do)  
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
