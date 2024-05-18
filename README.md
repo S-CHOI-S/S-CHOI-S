@@ -60,7 +60,7 @@ Here are some ideas to get you started:
     
 - 🚀&nbsp; **Mobile Robotics Lab. (MRL)** [🔗](https://mrl.seoultech.ac.kr/index.do)  
 
-![snake gif](https://github.com/S-CHOI-S/S-CHOI-S/blob/output/github-contribution-grid-snake.svg)
+<img src="https://github.com/S-CHOI-S/S-CHOI-S/blob/output/github-contribution-grid-snake.svg"/>
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
