@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 <div>
   <p align="left">
     <a href="https://github.com/S-CHOI-S"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/S-CHOI-S" height="25"/></a>        <!--&nbsp-->
-    <a href="mailto:jennychoi0904@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jennychoi0904@gmail.com" height="25"/></a>
+    <a href="mailto:solchoi@yonsei.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jennychoi0904@gmail.com" height="25"/></a>
     <a href="https://pineasol.notion.site/"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://pineasol.notion.site/S-log-624ce31860574aac91f76440167f85dc" height="25"/>
   </p>
 </div>
